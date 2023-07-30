@@ -1,2 +1,0 @@
-D:\Source\ConsoleApp\obj\Debug\EbayConsole.csproj.AssemblyReference.cache
-D:\Source\ConsoleApp\obj\Debug\EbayConsole.csproj.CoreCompileInputs.cache
