@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/text_view_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="sans-serif-medium"
+            android:text="Gateway Powersports"
+            android:textColor="@color/gw_green"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/text_view_scan_to_shelf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_view_name"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="sans-serif-medium"
+            android:padding="16dp"
+            android:text="Scan To Shelf"
+            android:textColor="@color/gw_green"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/text_input_location"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/text_view_scan_to_shelf"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient_background"
+            android:fontFamily="sans-serif-black"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/text_input_serial_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_input_location"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient_background"
+            android:fontFamily="sans-serif-black"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/button_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text_input_serial_number"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:text="SUBMIT" />
+
+
+    </RelativeLayout>
+
+
+</ScrollView>
+
+

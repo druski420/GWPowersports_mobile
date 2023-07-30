@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDWdq+Xle62nQZH/HB4FTPEbxxZJWI2N02GrsJFm5a4RrHHpGFS9oeJSs/zKmhRxJcYO/fLW2OzxV7ecOhyiJQ==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\GW_eBay_Updater\\GW_eBay_Updater\\GW_eBay_Updater\\GW_eBay_Updater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Drew\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GWPowersports</string>
+    <string name="connection_string">"jdbc:jtds:sqlserver://gwdb-srvr.database.windows.net:1433/gwdb;user=gwdb-admin@gwdb-srvr;database=gwdb;password=GWp0w3r5p0rt5;ssl:require"</string>
+</resources>
